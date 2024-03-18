@@ -1,5 +1,8 @@
 # [Node.js(Express) + React + OpenAI API] AI 영어 선생님 챗봇
 
+![image](https://github.com/JisuEun/Chatbot-English-Tutor/assets/76491203/cff23656-ffb9-4266-be80-1ec5707fda18)
+
+
 ## 🌟개발 기간
 240310 ~ 240318
 
